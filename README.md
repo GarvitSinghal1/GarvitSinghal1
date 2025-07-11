@@ -28,4 +28,3 @@ Also trying to survive JEE prep @ Narayana
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitSinghal1&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=GarvitSinghal1&theme=radical)
