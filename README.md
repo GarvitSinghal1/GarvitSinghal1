@@ -1,4 +1,5 @@
 # 🧠 Garvit | Teen Dev in JEE Prep Mode
+![Boss's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarvitSinghal1&show_icons=true&theme=radical)
 
 Hey, I'm Garvit — 15 y/o dev from Jaipur. I build tools to make life easier and study smarter.  
 Currently cooking:
