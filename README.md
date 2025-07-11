@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🧠 Garvit | Teen Dev in JEE Prep Mode
 
-<!--
-**GarvitSinghal1/GarvitSinghal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Garvit — 15 y/o dev from Jaipur. I build tools to make life easier and study smarter.  
+Currently cooking:
+- 🎯 Academic Planner App (GitHub Pages + Desktop)
+- 🧠 AI-generated YouTube Shorts Automation
+- 🐍 Custom Snake Game (built with Pygame)
+- 🔁 Workflows using n8n, Automa, and Figma APIs
 
-Here are some ideas to get you started:
+💻 Tech: Python • JS • HTML/CSS • Git • GitHub • Figma • Automation  
+🎮 Gaming: Valorant  
+📍 Based in India | Studying @ Narayana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ⚡ Work smart. Learn faster. 
