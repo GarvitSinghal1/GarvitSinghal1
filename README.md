@@ -14,13 +14,24 @@ I build stuff that makes life easier (or just cooler).
 - 🏅 **4th Place** in World Robot Olympiad (WRO) Virtual Championship 2024  
 
 <details>
-  <summary>📄 Click to view actual WRO 2024 result</summary>
+  <summary>📄 Click to view official WRO results</summary>
 
-**Category:** Future Innovators Senior  
-**Rank:** 4th Place  
-📸 ![Result Screenshot](./wro-2024-senior-result.png)  
-🔗 [Official Results Page (scroll to “Future Innovators Senior”)](https://wroindia.org/season-2024/result/)
+### 🧠 Future Innovators Senior – 2024  
+**Team Name:** LANDSLIDEWATCHER  
+**Rank:** 9th Place (Senior Category)  
+📸 ![2024 Result](./wro-2024-senior-result.png)  
+🔗 [Official Results Page – 2024 (scroll to “Future Innovators Senior”)](https://wroindia.org/season-2024/result/)
+
+---
+
+### 🧠 Future Innovators Senior – Virtual Round 2025  
+**Team Name:** AUTONOMOUS URBAN RECYCLER (AURo)  
+**Rank:** 9th Overall | 🥉 4th Place in Senior Category  
+📸 ![2025 Result](./wro-2025-senior-result.png)  
+🔗 [Official Results Page – 2025](https://wroindia.org/season-2025/result/)
+
 </details>
+
 
 ## 💻 Tech Stack  
 ### Languages & Frameworks
