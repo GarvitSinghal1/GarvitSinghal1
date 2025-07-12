@@ -10,8 +10,17 @@ I build stuff that makes life easier (or just cooler).
 - 🔁 Workflows using n8n, Automa, and Figma APIs
 
 ## 🏆 Notable Achievements
-- 🥇 **National Rank 9** in World Robot Olympiad (WRO) 2023
-- 🏅 **4th Place** in World Robot Olympiad (WRO) Virtual Championship 2024
+- 🥇 **National Rank 9** in World Robot Olympiad (WRO) 2023  
+- 🏅 **4th Place** in World Robot Olympiad (WRO) Virtual Championship 2024  
+
+<details>
+  <summary>📄 Click to view actual WRO 2024 result</summary>
+
+**Category:** Future Innovators Senior  
+**Rank:** 4th Place  
+📸 ![Result Screenshot](./wro-2024-senior-result.png)  
+🔗 [Official Results Page (scroll to “Future Innovators Senior”)](https://wroindia.org/season-2024/result/)
+</details>
 
 ## 💻 Tech Stack  
 ### Languages & Frameworks
@@ -62,11 +71,7 @@ I build stuff that makes life easier (or just cooler).
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Open For Cobals!</i>
 </p>
 
-<!-- Consider adding:
-- 📫 How to reach me
-- 🌐 Portfolio website
-- 🔗 Social links
--->
+
