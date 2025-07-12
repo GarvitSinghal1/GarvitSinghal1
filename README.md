@@ -12,7 +12,7 @@ Currently playing with:
 ---
 
 ### 💻 Stuff I Use  
-`Python` · `JavaScript` · `HTML/CSS` · `Git` · `GitHub` · `Figma` · `Automation tools`
+`Python`![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) · `JavaScript` · `HTML/CSS` · `Git` · `GitHub` · `Figma` · `Automation tools`
 
 ### 🎮 When Not Coding  
 Valorant + random TV shows  
