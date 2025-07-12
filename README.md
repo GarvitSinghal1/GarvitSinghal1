@@ -12,7 +12,6 @@ I build stuff that makes life easier (or just cooler).
 ## 🏆 Notable Achievements
 - 🥇 **National Rank 9** in World Robot Olympiad (WRO) 2023  
 - 🏅 **4th Place** in World Robot Olympiad (WRO) Virtual Championship 2024  
-
 <details>
   <summary>📄 Click to view official WRO results</summary>
 
@@ -82,7 +81,7 @@ I build stuff that makes life easier (or just cooler).
 ---
 
 <p align="center">
-  <i>Open For Cobals!</i>
+  <i>Open For Collabs!</i>
 </p>
 
 
