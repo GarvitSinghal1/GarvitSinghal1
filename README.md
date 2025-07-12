@@ -76,6 +76,12 @@ I build stuff that makes life easier (or just cooler).
 - 📚 Preparing for JEE @ Narayana
 - 📺 Watching TV shows
 
+## 📬 Connect With Me
+
+[![Discord](https://img.shields.io/badge/Discord-prome444-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/prome444)
+[![Instagram](https://img.shields.io/badge/Instagram-@GarvitSinghal1-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/GarvitSinghal1)
+
+
 > ✨ Just doing things
 
 ---
