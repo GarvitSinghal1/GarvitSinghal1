@@ -74,7 +74,6 @@ I build stuff that makes life easier (or just cooler).
 </p>
 
 ## 🎮 When Not Coding  
-- 🎯 Playing Valorant
 - 📚 Preparing for JEE @ Narayana
 - 📺 Watching TV shows
 
