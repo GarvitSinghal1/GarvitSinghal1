@@ -1,4 +1,4 @@
-# 🧠 Garvit | 15 y/o Hobby Dev
+# 🧠 Garvit | 16 y/o Hobby Dev
 
 Hey, I'm Garvit — a teen dev from Jaipur messing around with code for fun.  
 I build stuff that makes life easier (or just cooler).  
